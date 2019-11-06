@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Update Short Description">9a43a42edb7400103c281fc7689619f5</button>
+        <description/>
+        <field_name/>
+        <label>Update Short Description</label>
+        <location>top</location>
+        <name>Update Short Description</name>
+        <order>2</order>
+        <parent>1f2940e6db3400103c281fc768961980</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-01 15:03:40</sys_created_on>
+        <sys_id>aea7e8eedb7400103c281fc76896190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Short Description</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_aea7e8eedb7400103c281fc76896190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-01 15:03:40</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=aea7e8eedb7400103c281fc76896190a"/>
+</record_update>

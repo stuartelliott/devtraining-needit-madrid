@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Req type</name>
+        <parent>4e1604e2db3400103c281fc76896198f</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-01 12:37:18</sys_created_on>
+        <sys_id>fe2684e2db3400103c281fc768961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Req type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_fe2684e2db3400103c281fc768961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-01 12:37:18</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
